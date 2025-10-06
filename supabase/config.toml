@@ -1,0 +1,4 @@
+project_id = "htdioyiorngoskoinxdp"
+
+[functions.classify-spam]
+verify_jwt = false
